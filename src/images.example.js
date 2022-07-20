@@ -1,0 +1,16 @@
+export const IMAGES = [
+  "https://i.imgur.com/udcbBNB.jpeg",
+  "https://i.imgur.com/sKV54PO.jpeg",
+  "https://i.imgur.com/dZH9gh8.jpeg",
+  "https://i.imgur.com/TBgEy0n.jpeg",
+  "https://i.imgur.com/ox8Cp47.jpeg",
+  "https://i.imgur.com/XlLBnZV.jpeg",
+  "https://i.imgur.com/BOvWmI7.jpeg",
+  "https://i.imgur.com/eEDmiyr.jpeg",
+  "https://i.imgur.com/XMPcnz1.jpeg",
+  "https://i.imgur.com/gBQGQYB.jpeg",
+  "https://i.imgur.com/gt6CKQl.jpeg",
+  "https://i.imgur.com/MlCw7rv.jpeg",
+  "https://i.imgur.com/5TWGIMy.jpeg",
+  "https://i.imgur.com/copA5m1.jpeg",
+];
